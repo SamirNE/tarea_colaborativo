@@ -1,3 +1,7 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
 Samir_Navarrete_Espinosa.
+
+El repositorio remoto actualizado se puede encontrar en las url's:
+
+https://github.com/SamirNE/tarea_colaborativo
