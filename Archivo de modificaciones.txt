@@ -2,6 +2,9 @@ Este archivo será utilizado para emular modificaciones en el proyecto colaborati
 
 Samir_Navarrete_Espinosa.
 
+Marcos Ortiz-Tirado Miranda.
+
 El repositorio remoto actualizado se puede encontrar en las url's:
 
 https://github.com/SamirNE/tarea_colaborativo
+https://github.com/marcosotm/tarea_colaborativo
